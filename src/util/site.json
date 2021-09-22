@@ -5,7 +5,7 @@
     "description": "\n🌍African Student Association is a community of members of the Lehigh University with a passion for Africa and its people\n",
     "siteUrl": "https://lehighasa.org",
     "image": "/assets/asalogo.png",
-    "iconimage": "/assets/favicon.ico",
+    "iconimage": "https://github.com/aaronkebede/Lehigh-ASA-Website/blob/main/favicon.ico?raw=true",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
