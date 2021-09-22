@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: African Students Association
+tagline: By Africans, For Africans
+featuredImage: /assets/home-page-1.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn More
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+###### A community that **welcomes, embraces, and supports** members of Lehigh University with **various African identities and backgrounds**, and invites **anyone**, regardless of their identity, with a **passion, interest, or curiosity for Africa** and its people.
