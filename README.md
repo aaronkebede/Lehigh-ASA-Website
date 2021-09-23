@@ -2,4 +2,4 @@
 
 This repository contains website files for www.lehighasa.org.
 
-For the original ReadMe documnent, click [here](/or.md)
+For the original ReadMe document, click [here](/or.md).
