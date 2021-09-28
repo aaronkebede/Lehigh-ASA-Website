@@ -4,6 +4,7 @@ title: Introducing the E-Board for the 2021-2022 Academic Year
 slug: /21-22-executive-board
 date: 2021-09-13 06:24
 description: Lehigh University African Students Association Executive Board(E-Board)
+featuredImage: /assets/asalogo.png
 ---
 **Meet our E- board for the 2021-2022 Academic Year!** 
 
