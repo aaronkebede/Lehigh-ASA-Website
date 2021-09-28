@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "The Cut: Movie Screening"
-slug: cut-movie-screening
+slug: /cut-movie-screening
 date: 2019-09-26 19:59
 description: The Cut Movie Screening Lehigh University African Students Association
 featuredImage: /assets/4.jpg
