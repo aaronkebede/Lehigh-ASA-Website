@@ -12,7 +12,7 @@ Thanks to everyone who made it to our meeting today!
 
 A recap of our events:
 
-1. ![](/assets/image-2.jpg)
+   ![](/assets/image-2.jpg)
 
    ![](/assets/image-3.jpg)
 
