@@ -22,6 +22,10 @@ const MenuItems = [
     path: "/contact",
     title: "Contact",
   },
+  {
+    path: "https://asa.pubpub.org",
+    title: "l'Afrique",
+  },
 ]
 
 const ListLink = props => (
